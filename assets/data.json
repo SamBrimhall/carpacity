@@ -1,0 +1,347 @@
+{
+  "pageData": {
+
+    "categories": {
+      "sports": [
+        {
+          "name": "skateboard",
+          "img": "./assets/items/skateboard.png",
+          "height": 5,
+          "width": 31,
+          "length": 7.5,
+          "cubic": 1160
+        },
+        {
+          "name": "soccer-ball",
+          "img": "./assets/items/soccer-ball.png",
+          "height": 8.75,
+          "width": 8.75,
+          "length": 8.75,
+          "cubic": 729
+        },
+		{
+          "name": "avg-adult-skiis",
+          "img": "./assets/items/avg-adult-skiis.png",
+          "height": 3,
+          "width": 67,
+          "length": 8,
+          "cubic": 1607
+        },
+		{
+          "name": "avg-kids-skii",
+          "img": "./assets/items/avg-kids-skii.png",
+          "height": 3,
+          "width": 50,
+          "length": 6,
+          "cubic": 899
+
+        },
+		{
+          "name": "avg-adult-snowboard",
+          "img": "./assets/items/avg-adult-snowboard.png",
+          "height": 8,
+          "width": 63,
+          "length": 10,
+          "cubic": 5040
+        },
+		{
+          "name": "avg-kids-snowboard",
+          "img": "./assets/items/avg-kids-snowboard.png",
+          "height": 6,
+          "width": 48,
+          "length": 8,
+          "cubic": 2303
+        },
+		{
+          "name": "bicycle",
+          "img": "./assets/items/bicycle.png",
+          "height": 38,
+          "width": 72,
+          "length": 46,
+          "cubic": 33098
+        },
+		{
+          "name": "golf-bag",
+          "img": "./assets/items/golf-bag.png",
+          "height": 15,
+          "width": 43,
+          "length": 15,
+          "cubic": 9675
+        }
+      ],
+      "toys": [
+        {
+          "name": "drone",
+          "img": "./assets/items/drone.png",
+          "height": 5,
+          "width": 9.8,
+          "length": 9.8,
+          "cubic": 500
+        }
+      ],
+      "furniture": [
+        {
+          "name": "cabinet",
+          "img": "./assets/items/cabinet.png",
+          "height": 24,
+          "width": 66,
+          "length": 33,
+          "cubic":52271
+
+        },
+		{
+          "name": "avg-chair",
+          "img": "./assets/items/avg-chair.png",
+          "height": 17,
+          "width": 17,
+          "length": 30,
+          "cubic": 8670
+        },
+		{
+          "name": "office-chair",
+          "img": "./assets/items/office-chair.png",
+          "height": 26,
+          "width": 26,
+          "length": 41,
+          "cubic": 27716
+        },
+		{
+          "name": "twin-mattress",
+          "img": "./assets/items/twin-mattress.png",
+          "height": 8,
+          "width": 75,
+          "length": 38,
+          "cubic": 22800
+
+        }
+      ],
+      "pets": [
+        {
+          "name": "beagle",
+          "img": "./assets/items/beagle.png",
+          "height": 24,
+          "width": 36,
+          "length": 12,
+          "cubic": 10367
+        },
+		{
+          "name": "jigglypuff",
+          "img": "./assets/items/jigglypuff.png",
+          "height": 18,
+          "width": 18,
+          "length": 18,
+          "cubic": 5832
+        },
+		{
+          "name": "pikachu",
+          "img": "./assets/items/pikachu.png",
+          "height": 16,
+          "width": 16,
+          "length": 16,
+          "cubic": 4096
+        }
+      ],
+      "accessories": [
+        {
+          "name": "luggage",
+          "img": "./assets/items/luggage.png",
+          "height": 12,
+          "width": 25,
+          "length": 16,
+          "cubic": 4800
+        },
+		{
+          "name": "basic-pillow",
+          "img": "./assets/items/basic-pillow.png",
+          "height": 5,
+          "width": 26,
+          "length": 20,
+          "cubic": 2600
+        },
+		{
+          "name": "grocery-bag",
+          "img": "./assets/items/grocery-bag.png",
+          "height": 14,
+          "width": 12,
+          "length": 7,
+          "cubic": 1176
+
+        }
+      ],
+	  "camping": [
+		{
+          "name": "sleeping-bag",
+          "img": "./assets/items/sleeping-bag.png",
+          "height": 6.5,
+          "width": 16,
+          "length": 6.5,
+          "cubic": 784
+        },
+		{
+          "name": "avg-fishing-rod",
+          "img": "./assets/items/avg-fishing-rod.png",
+          "height": 6,
+          "width": 84,
+          "length": 10,
+          "cubic": 5040
+        }
+	  ],
+	  "boxes": [
+		{
+          "name": "12x12x6-box",
+          "img": "./assets/items/boxes/12x12-box.png",
+          "height": 6,
+          "width": 12,
+          "length": 12,
+          "cubic": 864
+
+        },
+		{
+          "name": "12x12x12-box",
+          "img": "./assets/items/boxes/12x12-box.png",
+          "height": 12,
+          "width": 12,
+          "length": 12,
+          "cubic": 5040
+        },
+		{
+          "name": "14x6x6-box",
+          "img": "./assets/items/boxes/14x6-box.png",
+          "height": 6,
+          "width": 14,
+          "length": 6,
+          "cubic": 503
+
+        },
+		{
+          "name": "14x14x6-box",
+          "img": "./assets/items/boxes/14x14-box.png",
+          "height": 6,
+          "width": 14,
+          "length": 14,
+          "cubic": 1176
+        },
+		{
+          "name": "18x14x14-box",
+          "img": "./assets/items/boxes/18x14-box.png",
+          "height": 14,
+          "width": 18,
+          "length": 14,
+          "cubic": 3527
+
+        },
+		{
+          "name": "16x12x10-box",
+          "img": "./assets/items/boxes/16x12-box.png",
+          "height": 10,
+          "width": 16,
+          "length": 12,
+          "cubic": 1919
+        },
+		{
+          "name": "24x24x18-box",
+          "img": "./assets/items/boxes/24x24-box.png",
+          "height": 18,
+          "width": 24,
+          "length": 24,
+          "cubic": 10367
+
+        }
+	  ]
+    },
+
+    "cars":[
+
+      {
+        "make":"Hyundai",
+        "model":"Santa Fe 2016",
+        "data": {
+          "up": {
+            "source": "./assets/cars/hyundai-santa-fe-up.png",
+            "height": 38,
+            "width": 58,
+            "length": 26,
+            "cubic": 69120
+          },
+          "down": {
+            "source": "./assets/cars/hyundai-santa-fe-down.png",
+            "height": 38,
+            "width": 58,
+            "length": 70,
+            "cubic": 138240
+          },
+          "half": {
+            "source": "",
+            "height": 0,
+            "width": 0,
+            "length": 0
+          },
+          "total" : 276480
+        },
+        "info": "Cost - $30,400 USD\nSeating - 7\nMPG - 18/25\nFuel Tank Capacity - 18.8 gal\nCylinders - V6\nDrive Train -  Front Wheel Drive\nTransmission - 6-speed Automatic\nDimensions - 193.1in L x 74.2in W x 66.9in H\nExtras - Bluetooth"
+      },
+	  {
+        "make":"Volvo",
+        "model":"XC90 T6 Momentum",
+        "data": {
+          "up": {
+            "source": "./assets/cars/XC90_ALL.png",
+            "height": 35,
+            "width": 47.4,
+            "length": 21.8,
+            "cubic": 63984
+
+          },
+          "down": {
+            "source": "./assets/cars/XC90_NONE.png",
+            "height": 35,
+            "width": 47.4,
+            "length": 80.3,
+            "cubic": 110112
+
+          },
+          "half": {
+            "source": "./assets/cars/XC90_HALF.png",
+            "height": 35,
+            "width": 47.4,
+            "length": 49.6,
+            "cubic": 82250
+          },
+          "total": 207641
+        },
+        "info": "Cost - $45,750 USD\nSeating - 7\nMPG - 22/26\nFuel Tank Capacity - 18.8 gal\nCylinders - Inline 4\nDrive Train -  Front Wheel Drive\nTransmission - 8-speed Automatic\nDimensions - 195in L x 79in W x 70in H\nExtras - Bluetooth, Heated Seats, Navigation, Power Outlets"
+      },
+
+      {
+        "make":"Dacia",
+        "model":"Lodgy dCi 110 Laureate 5P",
+        "data": {
+          "up": {
+            "source": "./assets/cars/Lodgy_ALL.png",
+            "height": 35,
+            "width": 51,
+            "length": 14.9,
+            "cubic": 89250
+          },
+          "down": {
+            "source": "./assets/cars/Lodgy_NONE.png",
+            "height": 35,
+            "width": 51,
+            "length": 89.5,
+            "cubic": 160650
+          },
+          "half": {
+            "source": "./assets/cars/Lodgy_HALF.png",
+            "height": 35,
+            "width": 51,
+            "length": 46.5,
+            "cubic": 83895
+          },
+          "total" : 229765
+        },
+        "info": "Cost - $23,910.80 USD\nSeating - 7\nMPG - 22/26\nFuel Tank Capacity - 13.2 gal\nCylinders - Inline 4\nDrive Train -  Front Wheel Drive\nTransmission - Manual\nDimensions - 177in L x 69in W x 66in H\nExtras - None"
+      }
+
+    ]
+  }
+}
